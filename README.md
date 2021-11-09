@@ -8,7 +8,7 @@ My name is Shahin and I'm a python developer. I'm from India and studying B.TECH
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also share my experience and some tutorials on [DEV.to](https://dev.to/shahinsha).
+Apart from coding, I also share my experience and some tutorials on [![Dev][4.2]][4].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
@@ -45,6 +45,7 @@ Apart from coding, I also share my experience and some tutorials on [DEV.to](htt
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[4.2]: https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&color=2bbc8a
 
 
 <!-- links to your social media accounts -->
@@ -52,6 +53,7 @@ Apart from coding, I also share my experience and some tutorials on [DEV.to](htt
 [1]: https://twitter.com/ShahinS08240053
 [2]: https://github.com/shahin-0
 [3]: https://www.linkedin.com/in/shahin-sha-a89506225/
+[4]: https://dev.to/shahinsha
 
 
 <!-- Resources -->
