@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://github.com/shahin-0/shahin-0/blob/main/SHAHIN%20SHA%20(1).png "Header")](https://martinheinz.dev/)
+[![Header](https://github.com/shahin-0/shahin-0/blob/main/SHAHIN.png "Header")](https://martinheinz.dev/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
