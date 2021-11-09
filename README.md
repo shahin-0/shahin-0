@@ -15,14 +15,14 @@ Apart from coding, I also share my experience and some tutorials on [DEV.to](htt
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo&logo=ruby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MySQL-005C84?style=flat&logo&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Django-092E20?style=flat&logo&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo&logo=PyCharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo&logo=vim&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Atom-66595C?style=flat&logo&logo=Atom&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ruby-informational?style=flat&logo&logo=ruby&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PyCharm-informational.svg?&style=flat&logo&logo=PyCharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VIM-informational.svg?&style=flat&logo&logo=vim&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Atom-informational?style=flat&logo&logo=Atom&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
