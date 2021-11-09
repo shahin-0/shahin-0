@@ -11,10 +11,9 @@ My name is Shahin and I'm a python developer. I'm from India and studying B.TECH
 Apart from coding, I also share my experience and some tutorials on [DEV.to](https://dev.to/shahinsha).
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Ruby-informational?style=flat&logo&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo&logo=mysql&logoColor=white&color=2bbc8a)
