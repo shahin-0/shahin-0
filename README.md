@@ -11,17 +11,17 @@ My name is Shahin and I'm a python developer. I'm from India and studying B.TECH
 Apart from coding, I also share my experience and some tutorials on [DEV.to](https://dev.to/shahinsha).
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Ruby-informational?style=flat&logo&logo=ruby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Django-informational?style=flat&logo&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/PyCharm-informational.svg?&style=flat&logo&logo=PyCharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VIM-informational.svg?&style=flat&logo&logo=vim&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Atom-informational?style=flat&logo&logo=Atom&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badget&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ruby-informational?style=for-the-badge&logo&logo=ruby&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=for-the-badge&logo&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PyCharm-informational.svg?&style=for-the-badget&logo&logo=PyCharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VIM-informational.svg?&style=for-the-badge&logo&logo=vim&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Atom-informational?style=for-the-badge&logo&logo=Atom&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
